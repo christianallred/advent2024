@@ -1,9 +1,9 @@
 package main
 
 import (
-	"playground/pkg/day2"
+	"playground/pkg/day4"
 )
 
 func main() {
-	day2.Run()
+	day4.Run()
 }
